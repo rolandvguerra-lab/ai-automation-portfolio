@@ -1,0 +1,14 @@
+{
+  "valid_records": [],
+  "errors": [
+    "Record 1: field 'email' must contain '@'.",
+    "Record 1: field 'order_total' must be zero or greater.",
+    "Record 1: field 'status' must be one of: cancelled, paid, pending, shipped.",
+    "Record 2: field 'order_total' must be number; got str."
+  ],
+  "summary": {
+    "input_records": 2,
+    "valid_records": 0,
+    "invalid_records": 2
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "records": [
+    {"customer_id": "CUST-2001", "name": "Morgan Sample", "email": "morgan.example.test", "order_total": -15.25, "status": "processing"},
+    {"customer_id": "CUST-2002", "name": "Taylor Example", "email": "taylor@example.test", "order_total": "49.99", "status": "paid"}
+  ]
+}
