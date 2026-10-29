@@ -113,3 +113,14 @@ Possible future improvements include stricter email validation, currency-aware d
 ```powershell
 python -m unittest discover -s tests -v
 ```
+
+## Demo Results
+
+### Automated Tests — 15 Passed
+![Automated test results](images/Automated%20tests.png)
+
+### Valid JSON Input
+![Valid input results](images/Valid%20input.png)
+
+### Invalid JSON Input
+![Invalid input results](images/invalid%20input.png)
