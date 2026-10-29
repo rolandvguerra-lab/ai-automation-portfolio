@@ -11,6 +11,8 @@ I am building practical tools and workflow improvements with Python, structured 
 
 ## Projects
 
+- [Data Validation](projects/01-data-validation/)
+
 Project case studies will be added after each is reviewed for public sharing. Public demos will use synthetic or public sample data and will not include private notes, customer information, credentials, or proprietary code.
 
 Each project write-up will cover the problem, the approach, and the result, with a sanitized demo where appropriate.
