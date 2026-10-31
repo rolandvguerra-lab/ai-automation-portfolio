@@ -12,6 +12,7 @@ I am building practical tools and workflow improvements with Python, structured 
 ## Projects
 
 - [Data Validation](projects/01-data-validation/)
+- [Ecommerce Product Data QA](projects/02-ecommerce-product-data-qa/)
 
 Project case studies will be added after each is reviewed for public sharing. Public demos will use synthetic or public sample data and will not include private notes, customer information, credentials, or proprietary code.
 
