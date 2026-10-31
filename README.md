@@ -2,7 +2,7 @@
 
 I build practical Python tools and data-quality workflows that help make business data more accurate, organized, and easier to manage.
 
-My focus is on applying programming and automation to real operational problems, with an emphasis on reliable validation, clear reporting, and usable deliverables.
+My focus is applying programming and automation to real operational problems, with an emphasis on reliable validation, clear reporting, and usable deliverables.
 
 ## Focus Areas
 
@@ -24,25 +24,25 @@ A Python command-line tool that validates structured customer-order records in J
 - Produces record-level error reports
 - Includes automated tests using Python's `unittest` framework
 
-[View Project](projects/01-data-validation/)
+[View Project 01](projects/01-data-validation/)
 
 ### 2. Ecommerce Product Data QA
 
-A Python-based quality-checking workflow for ecommerce product catalog data before migration or operational handoff.
+A Python-based workflow demonstrating product catalog quality checks before an ecommerce migration handoff.
 
 - Detects duplicate SKUs and missing product information
-- Flags invalid, ambiguous, or nonpositive prices
-- Identifies negative inventory quantities
-- Produces a structured working copy and traceable exceptions log
+- Flags ambiguous, invalid, and nonpositive prices
+- Identifies negative quantities
+- Produces a separate working copy and traceable exceptions log
 - Includes a client-facing sample report using synthetic product data
 
-[View Project](projects/02-ecommerce-product-data-qa/)
+[View Project 02](projects/02-ecommerce-product-data-qa/)
 
 ## How I Approach Projects
 
 1. Understand the business problem and agree on validation requirements.
-2. Inspect the source data and identify potential quality issues.
-3. Apply documented rules and preserve original information.
+2. Inspect source data and identify potential quality issues.
+3. Apply documented rules while preserving original information.
 4. Produce organized outputs and clear exception reports.
 5. Test the workflow and communicate limitations.
 
