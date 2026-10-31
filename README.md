@@ -1,23 +1,57 @@
-# Roland Guerra | Automation & Data Portfolio
+# Roland Guerra | Automation & Data Quality Portfolio
 
-I am building practical tools and workflow improvements with Python, structured data, validation, and reporting.
+I build practical Python tools and data-quality workflows that help make business data more accurate, organized, and easier to manage.
 
-## Focus areas
+My focus is on applying programming and automation to real operational problems, with an emphasis on reliable validation, clear reporting, and usable deliverables.
+
+## Focus Areas
 
 - Python scripting and lightweight automation
-- JSON and SQLite for structured data
-- Data validation and dependable workflows
-- Operational reporting and dashboards
+- JSON processing and structured data validation
+- Ecommerce product catalog and inventory data QA
+- Spreadsheet cleanup and data-quality checks
+- Exception reporting and operational reporting
+- Excel and Google Sheets workflow support
 
-## Projects
+## Portfolio Projects
 
-- [Data Validation](projects/01-data-validation/)
-- [Ecommerce Product Data QA](projects/02-ecommerce-product-data-qa/)
+### 1. Python Data Validation & JSON Error Reporting
 
-Project case studies will be added after each is reviewed for public sharing. Public demos will use synthetic or public sample data and will not include private notes, customer information, credentials, or proprietary code.
+A Python command-line tool that validates structured customer-order records in JSON.
 
-Each project write-up will cover the problem, the approach, and the result, with a sanitized demo where appropriate.
+- Checks required fields, data types, and business rules
+- Identifies invalid and duplicate records
+- Produces record-level error reports
+- Includes automated tests using Python's `unittest` framework
+
+[View Project](projects/01-data-validation/)
+
+### 2. Ecommerce Product Data QA
+
+A Python-based quality-checking workflow for ecommerce product catalog data before migration or operational handoff.
+
+- Detects duplicate SKUs and missing product information
+- Flags invalid, ambiguous, or nonpositive prices
+- Identifies negative inventory quantities
+- Produces a structured working copy and traceable exceptions log
+- Includes a client-facing sample report using synthetic product data
+
+[View Project](projects/02-ecommerce-product-data-qa/)
+
+## How I Approach Projects
+
+1. Understand the business problem and agree on validation requirements.
+2. Inspect the source data and identify potential quality issues.
+3. Apply documented rules and preserve original information.
+4. Produce organized outputs and clear exception reports.
+5. Test the workflow and communicate limitations.
 
 ## About
 
-I am developing my skills by applying automation and data tools to practical operational problems. This portfolio will grow as projects are completed and prepared for public sharing.
+I have professional experience in telecommunications operations, material inventory, logistics coordination, SAP S/4HANA, and operational reporting.
+
+I am expanding this experience through Python, data processing, and lightweight automation projects.
+
+This portfolio demonstrates practical work using synthetic or public sample data. Demonstration results are not presented as paid client engagements or production deployments.
+
+I value clear requirements, careful testing, honest communication, and deliverables that clients can understand and use.
